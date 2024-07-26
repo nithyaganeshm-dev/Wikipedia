@@ -6,4 +6,4 @@
 - Bootstrap
 - JavaScript
 ---
-### Status - Pending
+### Status - Completed
