@@ -1,6 +1,6 @@
 ### Wikipedia Search Application
 ---
-### Technologies use
+### Technologies Used
 - HTML
 - CSS
 - Bootstrap
