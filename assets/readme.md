@@ -1,5 +1,1 @@
-# Wikipedia Search Application
-# Web Application
-# HTML, CSS, Bootstrap, JavaScript
-# API Intergration
-# NxtWave
+# API Link - https://apis.ccbp.in/wiki-search?search=India
